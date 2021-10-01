@@ -1,0 +1,7 @@
+{
+  "editor.autoClosingBrackets": "always",
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.saveFileBeforeRun": true,
+  "scm.inputFontSize": 15,
+  "git.ignoreLimitWarning": true
+}
